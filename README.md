@@ -1,2 +1,2 @@
-# vim_config
-My vimrc file with all of my prefered config
+# My Personal Vim Config
+Just my prefered Vim config so I can pull down my .vimrc file for any new machine.
